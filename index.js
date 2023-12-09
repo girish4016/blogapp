@@ -1,3 +1,5 @@
+// run npm install to install dependencies
+
 const express = require('express')
 const app = express()
 
